@@ -1,4 +1,4 @@
-[![][PizzaImage]][website] 
+[[PizzaImage]]
 
 Introduction to Git, Part 2
 ===========================
